@@ -1,4 +1,4 @@
-The **Pigment Pedestal** is a block that can be crafted using a vanilla Crafting Table. Its recipe is unlocked when the player picks up a [Topaz Shard], [Amethyst Shard], [Citrine Shard], or any of the associated non-polished blocks.
+The **Pigment Pedestal** is a block that can be crafted using a vanilla Crafting Table. Its recipe is unlocked when the player picks up a [Topaz Shard], [Amethyst Shard], [Citrine Shard], or any of the associated non-polished blocks. It is used for a large amount of the crafting recipes that Spectrum adds.
 
 Your first Pedestal is crafted with two wooden planks (P), two cyan, magenta, or yellow dye (D), one redstone (R), two gemstone shards (S), one [Polished Basalt] (B), and one [Polished Calcite] (C).
 
@@ -14,8 +14,10 @@ To upgrade the pedestal, the Focus isn't necessary - simply put, in order, a top
 
 Upon constructing the [Fusion Shrine] and using it to make [Onyx Shard]s, you will unlock the Pedestal's onyx upgrade, requiring another structure upgrade: the [Spectrum Temple], which is 13 blocks wide, 13 blocks long, and 6 blocks tall. Simply put an onyx shard into the GUI and then right-click the Pedestal with your paintbrush.
 
-On obtaining a [Moonstone Shard] from the [Deeper Down], you may use it to upgrade your Pedestal once more, in the same way that you upgraded it to the CMY and Onyx tiers. To unlock its crafts, you must construct the [Spectrum Palace] around it.
+On obtaining a [Moonstone Shard] from the [Deeper Down], you may use it to upgrade your Pedestal once more, in the same way that you upgraded it to the CMY and Onyx tiers. To unlock its crafts, you must construct the [Spectrum Palace] around it. The Palace is a 13x13x7 structure.
 
 You might be wondering about the second-tier moonstone pedestal. Your [Colorful World] book says that you have to find a way around your inability to craft moonstone [Gemstone Chiseled Blocks]. Have you found an [Abandoned City] in the Deeper Down yet? If so, did it have a church?
 
 There's going to be a chest above the Spectrum Palace-like structure that might contain some moonstone chiseled calcite or basalt, if you are against desecrating a holy place. If you aren't? Make note of where the moonstone chiseled blocks are in the structure. *Steal them*. The moonstone basalt in the walls of the church is irrelevant to the structure of the [Spectrum Complex], your final Pedestal structure upgrade.
+
+Rip those chiseled moonstone blocks from the church. The [Dreiton]s aren't using them anymore! The unimplemented Dreiton entities don't count. NO ONE is using those churches. Now shove them in your Spectrum Palace where they were in that church, then right-click your Pedestal one final time.
