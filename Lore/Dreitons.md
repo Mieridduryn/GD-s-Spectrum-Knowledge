@@ -1,0 +1,1 @@
+The **Dreitons**, also known as **Shardlings**, are a near-extinct species created by the [Shura].
