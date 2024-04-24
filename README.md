@@ -5,4 +5,4 @@
 
  There's no English wiki for Spectrum. Sad.
 
- Anyway. Spectrum is a magic mod based on the CMYK (pigment) color mixing model. It is a mod by and for gay furries, created by Dafuqsy and Azzyy.
+ Anyway. [Spectrum](https://github.com/DaFuqs/Spectrum) is a magic mod based on the CMYK (pigment) color mixing model. It is a mod by and for gay furries, created by Dafuqsy and Azzyy.
